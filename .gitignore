@@ -1,0 +1,14 @@
+# Service-account key: never commit it
+credenciais.json
+*.json
+
+# Images and run outputs
+imagens/
+form_manifest_*.csv
+form_summary_*.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
