@@ -56,4 +56,4 @@ The original study used the default settings: 199 images in 20 forms (19 with 10
 
 Part of the Florence project:
 - Florence application: https://github.com/fabiorcerqueira/Florence
-- Images and human assessments: https://github.com/fabiorcerqueira/pain_nopain_img_rep
+- Human assessments: in the reproducibility package of the Florence repository; images available from the authors on request
