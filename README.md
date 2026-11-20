@@ -48,7 +48,7 @@ Responses are collected by Google Forms; export them from each form (Responses >
 
 ## Privacy
 
-Google Forms fetches each image from a publicly readable Drive link when the question is created, so the script makes each uploaded image readable by anyone with the link. This was acceptable for FPD-181, which uses stock photographs from Pexels, Unsplash and Pixabay (licenses allowed for free and editorial use).
+Google Forms fetches each image from a publicly readable Drive link when the question is created, so the script makes each uploaded image readable by anyone with the link. Once the forms are built, this access is no longer needed and can be removed with `--make-images-private` or directly in Google Drive. For FPD-181, the photographs (from Pexels, Unsplash and Pixabay) are not redistributed as a dataset; they are available from the authors on request.
 
 ## Notes on the FPD-181 study
 
