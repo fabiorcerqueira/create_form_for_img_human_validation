@@ -48,7 +48,7 @@ Responses are collected by Google Forms; export them from each form (Responses >
 
 ## Privacy
 
-Google Forms fetches each image from a publicly readable Drive link when the question is created, so the script makes each uploaded image readable by anyone with the link. Once the forms are built, this access is no longer needed and can be removed with `--make-images-private` or directly in Google Drive. For FPD-181, the photographs (from Pexels, Unsplash and Pixabay) are not redistributed as a dataset; they are available from the authors on request.
+Google Forms fetches each image from a publicly readable Drive link when the question is created, so the script makes each uploaded image readable by anyone with the link. Once the forms are built, this access is no longer needed and can be removed with `--make-images-private` or directly in Google Drive. For FPD-181, the photographs (from Pexels, Unsplash and Pixabay) are not redistributed because of third-party licenses.
 
 ## Notes on the FPD-181 study
 
@@ -56,4 +56,4 @@ The original study used the default settings: 199 images in 20 forms (19 with 10
 
 Part of the Florence project:
 - Florence application: https://github.com/fabiorcerqueira/Florence
-- Human assessments: in the reproducibility package of the Florence repository; images available from the authors on request
+- Human assessments: in the reproducibility package of the Florence repository; images not redistributed because of third-party licenses
